@@ -137,10 +137,6 @@ Contributions, suggestions, and improvements are welcome.
 3. Make changes and add tests if applicable.
 4. Open a pull request describing your changes.
 
-## License
-
-This project is provided as-is. Add a license file (e.g., MIT) if you want to allow reuse and contributions.
-
 ## Author
 
 Jenna  
